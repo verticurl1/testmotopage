@@ -1,0 +1,1106 @@
+
+.Principal{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+
+.letraGrande{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    font-size: 40px;
+    color: #ABB244;
+}
+
+.letraGrande:hover{
+    color: #ABB244;
+    text-decoration: underline;
+}
+
+.letraGrandeNegra{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    font-size: 40px;
+    color: #000000;
+}
+
+.letraGrandeNegra:hover{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.elementoMenu{
+    background-color: #000000;
+    margin-right: 0.1%;
+    float: left;
+    width: 10%;
+    height: 96px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.elementoMenuActual {
+    background-color: #ABB244;
+    margin-right: 0.1%;
+    float: left;
+    width: 10%;
+    height: 96px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.menuSinMargenes{
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+
+.imagenMenu{
+    width: 100%;
+    height: 48px;
+    padding-top: 10px;
+}
+
+.menuLetra{
+    width: 100%;
+    height: 48px;
+    padding-top: 0px;
+}
+
+.textoMenuMedio{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    width: 100%;
+    height: 48px;
+    font-size: 12px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.textoMenuTop{
+    width: 100%;
+    height: 48px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.inactivo{
+    background-color: #000000;
+}
+
+.active{
+    background-color: #ACB344;
+}
+
+.imagenMenuMobile{
+    display: inline-block;
+}
+
+.letraVerde{
+    color: #ACB344;
+}
+
+.demostracion{
+    font-size: 13px;
+    color:#ffffff;
+    margin-top: 21px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+}
+
+
+#header{
+    height: 80px;
+    background-color: #828384;
+    margin-bottom: 3px;
+}
+
+.linea{
+    width: 100%;
+    height: 35px;
+    border-right: 1px solid #ffffff;
+    margin-top: 22px;
+}
+
+.logo-motorola{
+    margin-left: 25px;
+    margin-top: 18px;
+}
+
+#menu{
+    background-color: #ffffff;
+    height: 96px;
+    width: 100%;
+}
+
+.sin-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.ultimoElemento{
+    width: 9%;
+    margin-right: 0px!important;
+}
+
+.mensajeGrande{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 36px;
+    color: #ACB344;
+    text-align: center;
+}
+
+.mensajeGrandeSubrayado{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 36px;
+    color: #ACB344;
+    text-align: left;
+    margin-left: 25px;
+}
+
+.agradecimiento{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    margin-top: 0px;
+    font-size: 21px;
+    text-align: justify;
+    color: #000000;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.sinPaddingDerecho{
+    padding-right: 5px!important;
+}
+
+.sinMarginDerecho{
+    margin-right: 0px;
+}
+
+.fondoVerde{
+    background-color: #ACB344;
+    min-height: 125px;
+    height: auto;
+}
+
+
+
+.rowVerde{
+    background-color: #ACB344;
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+}
+
+.meta{
+    margin-top: 25px;
+    margin-left: 25px;
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.negro{
+    color: #000000;
+}
+
+.fondoGris{
+    background-color:#E7E6E5;
+    min-height: 336px;
+    height: auto;
+}
+
+.imagenObjetivo{
+    width: 100%;
+}
+
+.tituloObjetivo{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    font-size: 13px;
+    color: #ffffff;
+    background-color: #ACB344;
+    text-align: center;
+    margin-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.descripcionObjetivo{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: left;
+}
+
+.marginTop{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lineaDerecha{
+    margin-top: 2%;
+    padding-right: 10px;
+    border-right: 1px solid;
+    height: 80%;
+}
+.sinLinea{
+    margin-top: 2%;
+    height: 80%;
+}
+
+.footer{
+     min-height: 60px;
+     height: auto;
+     background-color: #828384;
+     margin-left: 0px;
+     margin-top: 0px;
+     width: 100%;
+ }
+
+.footer2{
+    min-height: 30px;
+    height: auto;
+    background-color: #828384;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.letraBlanca{
+    color: #ffffff;
+}
+
+.letraBlanca:hover{
+    text-decoration: underline;
+}
+
+.alineacionDerecha{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    text-align: right;
+    margin-top: 15px;
+    padding-right: 40px;
+    min-height: 30px;
+    height: auto;
+}
+
+.alineacionCentral{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 15px;
+    padding-right: 40px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    min-height: 30px;
+    height: auto;
+}
+
+.alineacionIzquierda{
+    text-align: left;
+    margin-top: 13px;
+    padding-left: 40px;
+    min-height: 30px;
+    height: auto;
+}
+
+.imagenMismaLinea{
+    display: inline-block;
+}
+
+.textoIzquierda{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 4%;
+}
+
+/*estilos contacto */
+.agradecimientoContacto, .agradecimientoDemostracion{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    color: #828383;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 4%;
+}
+
+.fondoContactoGris{
+    background-color: #D4D3D2;
+}
+
+.fondoContactoGrisClaro{
+    background-color: #E5E4E3;
+}
+
+.inputMitadIzquierda{
+    margin-left: 10%;
+}
+
+.inputMitadDerecha{
+    margin-right: 10%;
+}
+
+.paddingSuperiorInferior{
+    padding-top: 20px;
+    padding-bottom: 120px;
+}
+
+.paddingSuperiorInferiorDerecha{
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.sinNadaPaddingDerecho{
+    padding-right: 0px!important;
+}
+
+.sinNadaPaddingIzquierdo{
+    padding-left: 0px!important;
+}
+
+.textAreaPropia{
+    resize: none;
+    height: 68px !important;
+}
+
+.ayudaFormulario{
+    color: #656C6E;
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 12px;
+}
+
+.enLinea{
+    display: inline-block;
+}
+
+.boton{
+    background-color: #AD2C30;
+    color: #ffffff;
+    font-size: 18px;
+    border: 0px;
+    padding: 5px 40px;
+}
+
+.boton:hover{
+    background-color: #ABB244;
+    font-weight: bold;
+}
+
+#errores{
+    margin-left: 4%;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.enlaceDemostracion{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+.enlaceDemostracion:hover{
+    text-decoration: underline;
+    color:#ABB244;
+}
+
+/*Menu*/
+.enlaceMenu{
+    color: #ffffff;
+    text-decoration: none;
+    word-break: break-all;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: block;
+}
+
+.enlaceMenu:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*menu*/
+
+.lineaGris{
+    border-bottom: 2px solid #838483;
+}
+
+.letraNegra{
+    color:#000000;
+}
+
+.descripcionRecuadro{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: justify;
+    color: #000000;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #E5E5E4;
+}
+
+.margenTopUp{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.conozca{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+    color: white;
+    font-size: 21px;
+}
+
+.fondoVerdePadding{
+    background-color: #ACB344;
+    min-height: 350px;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tipoHotel{
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 10px;
+}
+
+.separadorHotel{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.tituloHotel{
+    font-size: 17px;
+    margin-top: 0px;
+}
+
+.tituloHotelMargin{
+    font-size: 17px;
+    margin-top: 0px;
+    margin-bottom: 65px;
+}
+
+.descripcionHotel{
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.imagenOptimaCobertura{
+    vertical-align: bottom;
+    position: relative;
+    bottom: -35px;
+}
+
+/*Aplicaciones*/
+.fondoVerdeSinMargin{
+    background-color: #ABB244!important;
+    min-height: 270px;
+    height: auto;
+    color: #ffffff;
+    width: 100%;
+    margin-left: 0px!important;
+    margin-top: 25px;
+}
+.vea{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 36px;
+    font-weight: normal;
+    padding-top: 25%;
+}
+.botonVideoAplicaciones{
+    padding-top: 50%;
+    margin: 0 auto;
+}
+.descripcionAplicacion{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    font-size: 22px;
+    color:#ABB244;
+    margin: 20px auto;
+    text-align: center;
+}
+.enlaceVideo{
+    display: block;
+    width: 100%;
+}
+
+.modalAplicaciones{
+    background-color: #ABB244;
+}
+
+.posicionModal{
+    margin: 0 auto;
+    margin-top: 20%;
+}
+
+#modalTexto{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    color: white;
+    font-size: 27px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#modalTitulo{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 21px;
+}
+
+.celdaLineaIzquierda{
+    border-left: 1px solid #ffffff;
+}
+
+/*video*/
+.video{
+    width: 100%;
+    padding-left: 5%;
+}
+
+.enlaceDescarga{
+    font-size: 27px;
+    color:#000000;
+}
+
+.enlaceDescarga:hover{
+    color:#000000;
+    text-decoration: underline;
+}
+/*accesorios*/
+.filaGris{
+    background-color:#E5E4E3;
+}
+
+.identifique{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    margin-left: 25px;
+    font-size: 17px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+}
+
+.tipoHotelAccesorio{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 0px;
+    padding-bottom: 70px;
+}
+.separadorHotelAccesorio{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.fondoVerdePaddingAccesorio{
+    background-color: #ACB344;
+    min-height: 150px;
+    height: auto;
+   padding: 0px;
+}
+.tituloHotelAccesorio{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.enlaceHotelAccesorio{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+.enlaceHotelAccesorio:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+
+/*Extension de vida*/
+.contenedorExtension{
+    width: 100%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.opcionExtension{
+    float: left;
+    width: 18%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.descripcionOpcion{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    width: 100%;
+    background-color: #C9C9C9;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: left;
+    height: auto;
+    min-height: 100px;
+}
+
+.fondoGrisExtension{
+    background-color: #E5E4E3;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.tituloExtension{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    color: #ABB244;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.cambioRadios{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 18px;
+    font-weight: normal;
+    color: #000000;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.telefono{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 25px;
+    font-weight: normal;
+    color: #000000;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.telefono:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+
+/*sistemas confiables*/
+.fondoGrisRowSistemas{
+    background-color: #E5E4E3;
+    margin-right: 0px;
+    margin-left: 0px;
+    min-height: 900px;
+}
+
+.sinNadaPaddingAmbos{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.ulSistemas{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    margin-left: -20px;
+}
+
+li {
+    color: #ABB244;
+    text-align: justify;
+}
+li span {
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    color: black;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.fondoRevista{
+    background-color: #D4D3D2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.fondoPrecios{
+    background-color: #E5E4E3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.rowSinMargenes{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/*monedero*/
+.tituloMonetario{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    display: block;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.tituloMonetario:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.fondoGrisMonetario{
+    background-color: #C9C9C9;
+    margin: 0px;
+}
+
+.fondoNegroMonetario{
+    background-color: #000000;
+    margin: 0px;
+}
+
+.paddingSuperiorMonedero{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.celularMonetario{
+    position: absolute;
+    z-index: 2;
+}
+
+.numeroMonetario{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.ventajasMonetario{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#modalTexto a{
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tipoRadio{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.margenInferior{
+    margin-bottom: 25px;
+}
+
+.enlaceExtension{
+    margin-left: 30px;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.enlaceExtension:hover{
+    color: #ffffff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#modalTextoBateria{
+    font-size: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+}
+
+/*resistencia*/
+.celdaVerde{
+    background-color:#ABB244;
+    font-size: 18px;
+    color: #000000;
+}
+
+.celdaGris{
+    background-color: #E5E4E3;
+    font-size: 18px;
+    color: #000000;
+}
+
+.tdBordeIzquierdo{
+    border-left: 1px solid #BDBDBB;
+}
+.tdBordeDerecho{
+    border-right: 1px solid #BDBDBB;
+}
+
+.bordeBcoizquierda{
+    font-size: 15px;
+    color: #000000;
+    border-left: 1px solid #ffffff;
+    text-align: center;
+    vertical-align: middle!important;
+}
+
+.bordeBcoAbajo{
+    font-size: 10px;
+    color: #000000;
+    border-bottom: 1px solid #ffffff;
+    text-align: center;
+    vertical-align: middle!important;
+}
+
+.imagenTabla{
+    max-width: 65px;
+}
+
+.celdaAlineaIzquierda{
+    text-align: left;
+}
+
+.textoVertical {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+/*sistemas confiables*/
+.divisorSistemas{
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 0px;
+    padding-bottom: 70px;
+}
+
+.separadorSistema{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.enlaceSistemas{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+    font-size: 14px;
+    text-decoration: none;
+    color:#000000;
+    display: block;
+    margin-left: 20px;
+}
+
+.enlaceSistemas:hover{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.enlaceDescargaSistemas{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+    font-size: 21px;
+    color: #000000;
+}
+
+.enlaceDescargaSistemas:hover{
+    color: #000000;
+    text-decoration: underline;
+
+}
+
+.logoMobile{
+    max-width: 240px;
+    margin: 0 auto;
+}
+
+.legales{
+    font-weight: normal;
+    color: #ffffff;
+    font-size: 9px;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.bold{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: bold;
+}
+
+.normal{
+    font-family: 'UniversLTW01-67BoldCn', Arial;
+    font-weight: normal;
+}
+
+/*estilos responsive*/
+@media(max-width: 1024px) {
+    .vea{
+        font-family: 'UniversLTW01-67BoldCn', Arial;
+        font-size: 36px;
+        font-weight: normal;
+        padding-top: 5%;
+    }
+    .botonVideoAplicaciones{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+}
+@media(max-width: 768px) {
+    .imagenMismaLinea{
+        display: block;
+    }
+    .enlaceFooterMobile{
+        font-size: 10px;
+        display: block;
+        width: 100%;
+        text-align: center;
+        word-wrap: break-word;
+        margin-top: 5px;
+    }
+    .alineacionCentral, .alineacionDerecha{
+        padding-right: 2px;
+        padding-left: 2px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .alineacionIzquierda{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #modalTexto{
+        font-size: 14px;
+    }
+    #modalTitulo{
+        font-size: 14px;
+    }
+
+    .row{
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    /*aplicaciones*/
+    .meta{
+        font-size: 15px;
+        padding-top: 15px;
+        margin-top: 0px;
+    }
+    .lineaDerecha{
+        border: 0px;
+    }
+
+    .sinNadaPaddingDerecho, .sinNadaPaddingIzquierdo{
+        padding-right: 15px!important;
+        padding-left: 15px!important;
+    }
+
+
+    .sinPaddingDerecho {
+        padding-right: 15px!important;
+    }
+    .mensajeGrande{
+        font-size: 25px;
+    }
+
+    .agradecimientoContacto, .agradecimientoDemostracion{
+     font-size: 17px;
+        text-align: justify;
+    }
+    .botonVideo{
+        margin-bottom: 20px;
+    }
+
+    .ventajasMonetario{
+        font-size: 13px;
+    }
+
+    .tituloMonetario{
+        font-size: 15px;
+    }
+
+    .fondoGrisRowSistemas{
+        min-height: 670px;
+    }
+
+    .mensajeGrandeSubrayado{
+        font-size: 20px;
+    }
+
+    .descripcionRecuadro{
+        font-size: 14px;
+    }
+
+    .enlaceDescargaSistemas{
+        font-size: 14px;
+    }
+
+    .opcionExtension{
+        width: 100%;
+        clear: both;
+    }
+    .descripcionOpcion{
+        text-align: justify;
+    }
+
+    .paddingSuperiorInferior, .paddingSuperiorInferiorDerecha{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .legales{
+        font-weight: normal;
+        color: #ffffff;
+        font-size: 9px;
+        text-align: justify;
+        margin: 0px;
+    }
+
+}
+
+@media(max-width: 600px) {
+    .vea{
+        font-family: 'UniversLTW01-67BoldCn', Arial;
+        font-size: 25px;
+        font-weight: normal;
+        padding-top: 5%;
+    }
+    .botonVideoAplicaciones{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+}
